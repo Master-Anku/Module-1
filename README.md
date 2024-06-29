@@ -24,3 +24,17 @@
 
 ##### နားမလည်တာကို မိမိရဲ့ ဆရာတွေကို မေးမြန်းပီး 
 * သူတို့ရဲ့ အကူအညီကို ရယူပါ။ 
+
+## My Bio
+
+![alt text](mranku.jpg)
+
+
+- **Name:** Master-Anku
+- **Location:** Yangon, Myanmar
+
+## Contact Information
+
+- **Email:** [ankumaster1@gmail.com](mailto:https://ankumaster1@gmail.com)
+- **GitHub:** [My Github](https://github.com/Master-Anku/Module-1.git)
+- **PannaCollege:** [pannacollege.org](https://sites.google.com/pannacollege.org/pannacollege/home)
