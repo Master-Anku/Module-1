@@ -31,7 +31,7 @@
 
 
 - **Name:** Master-Anku
-- **Location:** Yangon, Myanmar
+- **Location:** Yangon, PannaCollege
 
 ## Contact Information
 
