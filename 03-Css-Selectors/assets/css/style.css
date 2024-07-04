@@ -11,14 +11,17 @@
     background-color: #03a9f4;
 }
 
-
+.highlighted-text {
+    background-color: aliceblue;
+}
 /* image width */
 img {
     width: 200px;
 }
-
-
-/* ID Attributes */ 
+/* ID Attributes */
+#contact-section {
+    background-color: aliceblue;
+}
 #email {
     background-color: rgb(86, 237, 237);
 }
@@ -27,4 +30,11 @@ img {
 }
 #facebook {
     background-color: rgb(196, 22, 240);
+}
+/* footer */
+footer {
+    background-color:rgb(147 147 215);
+    padding: 20px;
+    font-size: 25px;
+    color: whitesmoke;
 }
